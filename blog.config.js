@@ -5,7 +5,7 @@ const BLOG = {
   link: 'https://www.uedkkk.ml/',
   description: 'HU$TLE',
   lang: 'en-US',
-  appearance: 'dark', // ['light', 'dark', 'auto'],
+  appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#111827', // use hex value, don't forget '#'
