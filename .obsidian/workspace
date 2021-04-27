@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "eadc050cc1de9376",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9eb75ef3bea83be",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CODE_OF_CONDUCT.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8dc38f379ef208f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed6cfc9c142841b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25124778900dd25c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "709079695a57fa1a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0e230aa6e6d82701",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fdd47be7bd3186c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76146e9cc671d8f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CODE_OF_CONDUCT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c9eb75ef3bea83be",
+  "lastOpenFiles": [
+    "CODE_OF_CONDUCT.md",
+    "README-CN.md",
+    "README.md",
+    "Nobelium-Logo.svg",
+    "desktop.png"
+  ]
+}
